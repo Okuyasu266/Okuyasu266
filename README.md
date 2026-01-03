@@ -2,7 +2,7 @@
 
 I'm a **15-year-old software engineer** passionate about **coding, programming, soccer, and MMA**. I love building projects, learning new technologies, and connecting with other developers.  
 
-💻 **Let's talk and collaborate!**  
+💻 **Let's talk!**  
 
 ---
 
