@@ -20,4 +20,3 @@ I'm a **15-year-old software engineer** passionate about **coding, programming, 
 
 ---
 
-Feel free to reach out—I love sharing knowledge, learning, and working on cool projects!
