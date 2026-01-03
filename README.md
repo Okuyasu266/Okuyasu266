@@ -9,7 +9,7 @@ I'm a **15-year-old software engineer** passionate about **coding, programming, 
 ### 📫 Contact Me
 - **Email:** [harisreekanth35@gmail.com](mailto:harisreekanth35@gmail.com)  
 - **Website:** [harisreekanth.vercel.app](https://harisreekanth.vercel.app)  
-- **YouTube:** [Coding Logic](https://www.youtube.com/@codinglogic-r7t)  
+- **YouTube:** [Hari Sreekanth](https://www.youtube.com/@codinglogic-r7t)  
 
 ---
 
