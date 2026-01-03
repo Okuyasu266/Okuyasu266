@@ -1,16 +1,23 @@
-## Hi I'm Hari Sreekanth!👋
+# Hi there! 👋 I'm Harinarayanan (Hari) Sreekanth
 
-<!--
-**Okuyasu266/Okuyasu266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **15-year-old software engineer** passionate about **coding, programming, soccer, and MMA**. I love building projects, learning new technologies, and connecting with other developers.  
 
-Here are some ideas to get you started:
+💻 **Let's talk and collaborate!**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Contact Me
+- **Email:** [harisreekanth35@gmail.com](mailto:harisreekanth35@gmail.com)  
+- **Website:** [harisreekanth.vercel.app](https://harisreekanth.vercel.app)  
+- **YouTube:** [Coding Logic](https://www.youtube.com/@codinglogic-r7t)  
+
+---
+
+### ⚡ Interests
+- Programming & Coding  
+- Soccer  
+- MMA  
+
+---
+
+Feel free to reach out—I love sharing knowledge, learning, and working on cool projects!
