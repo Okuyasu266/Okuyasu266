@@ -20,3 +20,12 @@ I'm a **15-year-old software engineer** passionate about **coding, programming, 
 
 ---
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
